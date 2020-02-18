@@ -13,6 +13,12 @@ Packages used:
 - math - counting the distance between two locations
 
 
+Files used:
+- location.csv
+- world.json
+(Are not on git because of huge file sizes)
+
+
 Program functions:
 1. year_films - function returns a list of tuples in which first element is a film
     name, second element is year and the third one is location.
@@ -24,4 +30,3 @@ Program functions:
 4. distance_sorter - function returns sorted by distance list of tuples
 5. main_map - function generates a map with film icons
 
-Example:
