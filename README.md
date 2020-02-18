@@ -13,10 +13,9 @@ Packages used:
 - math - counting the distance between two locations
 
 
-Files used:
+Files used: (Are not on git because of huge file sizes)
 - location.csv
 - world.json
-(Are not on git because of huge file sizes)
 
 
 Program functions:
